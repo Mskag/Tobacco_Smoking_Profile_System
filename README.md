@@ -1,4 +1,4 @@
-# Tobacco Use and Mortality Analysis (2004–2015)
+<img width="638" height="180" alt="image" src="https://github.com/user-attachments/assets/bc7949db-e14b-4f1d-9199-287bea5fefc2" /># Tobacco Use and Mortality Analysis (2004–2015)
 
 ## Overview
 This project analyzes the impact of tobacco use on public health using multiple datasets, including hospital admissions, mortality, smoking prevalence, prescriptions, and economic indicators.
@@ -80,11 +80,8 @@ The project generates **3 figures with 10 panels**, including:
 ---
 
 ## How to Run
-
+gadzbhjadc
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/tobacco-analysis.git
 cd tobacco-analysis
-
-### 2. Install dependencies
-pip install -r requirements.txt
