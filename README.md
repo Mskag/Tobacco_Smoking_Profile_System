@@ -1,13 +1,13 @@
-# 🚬 Tobacco Use and Mortality Analysis (2004–2015)
+# Tobacco Use and Mortality Analysis (2004–2015)
 
-## 📌 Overview
+## Overview
 This project analyzes the impact of tobacco use on public health using multiple datasets, including hospital admissions, mortality, smoking prevalence, prescriptions, and economic indicators.
 
 The analysis focuses on identifying trends, correlations, and key health burdens caused by smoking over time.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze smoking-attributable hospital admissions
 - Study mortality trends due to tobacco use
 - Compare trends across genders
@@ -18,7 +18,7 @@ The analysis focuses on identifying trends, correlations, and key health burdens
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 The project uses the following datasets:
 - `admissions.csv` → Smoking-related hospital admissions
 - `fatalities.csv` → Tobacco-attributable deaths
@@ -28,7 +28,7 @@ The project uses the following datasets:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -37,38 +37,38 @@ The project uses the following datasets:
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
-### 📊 1. Admissions Analysis
+### 1. Admissions Analysis
 - Total smoking-attributable admissions over time
 - Admissions comparison by sex
 - Top diagnoses causing hospital admissions
 
-### ☠️ 2. Mortality Analysis
+### 2. Mortality Analysis
 - Total deaths due to smoking
 - Death trends by gender
 - Top causes of death
 
-### 🔗 3. Correlation Analysis
+### 3. Correlation Analysis
 - Relationship between hospital admissions and deaths
 - Correlation coefficient calculation
 - Scatter plot with trendline
 
-### 🚬 4. Smoking Prevalence
+### 4. Smoking Prevalence
 - Trends across age groups
 - Gender-based prevalence analysis
 
-### 💊 5. Prescriptions Analysis
+### 5. Prescriptions Analysis
 - Smoking cessation prescriptions over time
 - Comparison of NRT and Varenicline usage
 
-### 💰 6. Economic Impact
+### 6. Economic Impact
 - Tobacco affordability index
 - Relationship with smoking prevalence
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 The project generates **3 figures with 10 panels**, including:
 - Admissions & mortality trends
 - Disease breakdown charts
@@ -79,9 +79,12 @@ The project generates **3 figures with 10 panels**, including:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/tobacco-analysis.git
 cd tobacco-analysis
+
+### 2. Install dependencies
+pip install -r requirements.txt
